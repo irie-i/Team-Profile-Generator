@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "name": "team-profile-generator",
+  "description": "HW10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irie-i/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irie-i/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/irie-i/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }
